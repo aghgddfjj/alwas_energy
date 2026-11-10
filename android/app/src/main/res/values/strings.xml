@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Speed Rush</string>
+    <string name="title_activity_main">Speed Rush</string>
+    <string name="package_name">com.speedrush.game</string>
+    <string name="custom_url_scheme">com.speedrush.game</string>
+</resources>
